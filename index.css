@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-weight: 300;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    font-family: 'Poppins', sans-serif;
+}
+/* meal details */
+
+.form-control{
+    margin-left: 22%;
+}
+.search-btn{
+    margin-left: 69%;
+    height: 37px;
+}
+.title{
+    color: #bd8787;
+}
+.hr{
+    border: 2px solid #bd8787;
+    border-radius: 4px;
+    margin-top: 1px;
+  }
+  .card-img{
+    height: 180px;
+  }
+a.btn{
+    background-color: #5BC0F8;
+    color: white;
+}
+/* meal details */
+
